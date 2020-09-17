@@ -1,9 +1,11 @@
 ## React_JS COVID-19 Tracker + PWA
 
-Made a training project by using React JS,Chart JS + Material UI.
-By using this tracker, which is based on API, it is possible to get data (line chart & bar chart) for each country about the infected, recovered cases and deaths.
-API used: https://covid19.mathdro.id/api
-In order to use this project as PWA :
+Made a training project by using React JS,Chart JS + Material UI.<br />
+By using this tracker, which is based on API, it is possible to get data (line chart & bar chart) for each country about the infected, recovered cases and deaths.<br />
+API used: https://covid19.mathdro.id/api<br />
+In order to use this project as PWA :<br />
+• https://covid-19-casetrack.netlify.app/
+
 
 Results :
 
