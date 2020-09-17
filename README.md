@@ -13,3 +13,5 @@ In order to use this project as PWA :<br />
 
 ![Capture](https://user-images.githubusercontent.com/55871427/81676927-27dcbf80-9459-11ea-9417-922cf33b71c1.PNG)
 
+## Lighthouse test results :
+![test_results](https://user-images.githubusercontent.com/55871427/93515558-76cbc180-f931-11ea-95a3-3ed864306bf4.JPG)
