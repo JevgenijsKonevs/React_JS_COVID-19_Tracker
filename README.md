@@ -7,7 +7,7 @@ In order to use this project as PWA :<br />
 • https://covid-19-casetrack.netlify.app/
 
 
-Results :
+## Results :
 
 ![Capture2](https://user-images.githubusercontent.com/55871427/81675439-7f7a2b80-9457-11ea-95be-bce6c7a1c7e3.PNG)
 
