@@ -3,7 +3,7 @@
 ## About :
 Made a training project by using React JS,Chart JS + Material UI.<br />
 By using this tracker, which is based on API, it is possible to get data (line chart & bar chart) for each country about the infected, recovered cases and deaths.<br />
-## API used :
+## API :
 API used: https://covid19.mathdro.id/api<br />
 ## PWA version :
 In order to use this project as PWA :<br />
